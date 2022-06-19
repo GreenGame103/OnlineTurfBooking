@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sign Up Form by Colorlib</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="C:/Users/Sudarsh/PycharmProjects/onlineTurfBooking/static/reg/fonts/material-icon/css/material-design-iconic-font.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="C:/Users/Sudarsh/PycharmProjects/onlineTurfBooking/static/reg/css/style.css">
+</head>
+<body>
+
+    <div class="main">
+
+        <section class="signup">
+
+            <div class="container">
+                <div class="signup-content">
+                    <form method="POST" id="signup-form" class="signup-form" enctype="multipart/form-data">
+                        <h2 class="form-title">Create account</h2>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="n" id="name" required placeholder="Your Name"required/>
+                        </div>
+                         <div class="form-group">
+                            <input type="text" class="form-input" name="hname" id="name" placeholder="Your House Name"required/>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="pla" id="name" placeholder="Your Place"required/>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="post" id="name" placeholder="Your Post"required/>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="pin" id="name" placeholder="Your Pin"pattern="[1-9][0-9]{5}"/>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-input" name="textfield7" id="email" placeholder="Your Email" required/>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="textfield3" id="name" placeholder="Your Phone"pattern="[6-9][0-9]{9}"/>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="textfield6" id="password" placeholder="Password" required/>
+                            <span toggle="#password" class="zmdi zmdi-eye field-icon toggle-password"></span>
+                        </div>
+                         <div class="form-group">
+                            <input type="text" class="form-input" name="textfield17" id="password" placeholder="Confirm Password" required/>
+                            <span toggle="#password" class="zmdi zmdi-eye field-icon toggle-password"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="file" class="form-input" name="fileField" id="name" placeholder="Image" required/>
+                        </div>
+
+
+                        <div class="form-group">
+                            <input type="submit" name="submit" id="submit" class="form-submit" value="Sign up"/>
+                        </div>
+                    </form>
+
+
+
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- JS -->
+    <script src="C:/Users/Sudarsh/PycharmProjects/onlineTurfBooking/static/reg/vendor/jquery/jquery.min.js"></script>
+    <script src="C:/Users/Sudarsh/PycharmProjects/onlineTurfBooking/static/reg/js/main.js"></script>
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
