@@ -1,0 +1,46 @@
+{% extends "user/user home.html" %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body><center><form action="/turfpay/{{ member }}/{{ date }}/{{ time }}/{{ a }}" method="post" enctype="multipart/form-data"><table width="233" border="0" class="table table-hover">
+  <tr>
+    <th width="176" scope="row">CARD HOLDER NAME</th>
+    <td width="8"><label for="textfield"></label>
+      <input type="text" name="hn" id="textfield" required /></td>
+  </tr><tr>
+    <th width="176" scope="row">CARD NUMBER</th>
+    <td width="8"><label for="textfield"></label>
+      <input type="text" name="cn" id="textfield" required /></td>
+  </tr>
+  <tr>
+    <th scope="row">CVV</th>
+    <td width="8"><label for="textfield"></label>
+      <input type="text" name="cvv" id="textfield" required /></td>
+  </tr>
+  <tr>
+    <th scope="row">EXPIRY DATE</th>
+     <td width="8"><label for="textfield"></label>
+      <input type="text" name="date" id="textfield" required /></td>
+  </tr>
+ <tr>
+    <th scope="row">AMOUNT</th>
+     <td width="8"><label for="textfield"></label>
+      <input type="text" name="price" readonly id="textfield" VALUE="{{ hr }}" required /></td>
+  </tr>
+
+
+  <tr>
+    <th height="47" colspan="2" scope="row"><label for="textfield2">
+      <input type="submit" name="button" id="button" value="Submit" />
+    </label></th>
+    </tr>
+</table>
+</form></center>
+</body>
+</html>
+{% endblock %}
