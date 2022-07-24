@@ -1,0 +1,26 @@
+{% extends "manager/manager_home.html" %}
+{% block body %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body><center><form action="" method="get"><table width="493" border="1"class="table table-hover">
+  <tr>
+    <th width="61" scope="col">#</th>
+    <th width="173" scope="col">AMOUNT</th>
+    <th width="138" scope="col">DATE</th>
+  </tr>
+  {% for i in data %}
+  <tr>
+    <td>&nbsp;{{ loop.index }}</td>
+    <td>{{ i['amt'] }}</td>
+    <td>{{ i['date'] }}&nbsp;</td>
+  </tr>
+    {% endfor %}
+</table>
+</form></center>
+</body>
+</html>
+{% endblock %}

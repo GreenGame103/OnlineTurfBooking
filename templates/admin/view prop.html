@@ -1,0 +1,39 @@
+{% extends "admin/admin_home.html" %}
+{% block body %}
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body><center>
+<form id="form1" name="form1" method="post" action=""><table width="431" border="1"class="table table-hover">
+  <tr>
+    <th>#</th>
+    <th>MANAGER NAME</th>
+    <th >MAIL</th>
+    <th >PHONE NUMBER</th>
+    <th >ADDRESS</th>
+    <th>IMAGE</th>
+  </tr>
+    {% for i in data %}
+  <tr>
+    <td height="50">{{ loop.index }}</td>
+    <td>{{ i['name'] }}</td>
+    <td>&nbsp;{{ i['mail'] }}</td>
+    <td>{{ i['ph_no'] }}</td>
+      <td>House Name: {{ i['hname'] }}<br>Place: {{ i['place'] }}<br>Post: {{ i['post'] }} <br>Pin: {{ i['pin'] }}</td>
+
+    <td><img src="{{ i['image'] }}" alt="nophoto" height="100" width="100"/> </td>
+  </tr>
+    {% endfor %}
+</table>
+
+</form>
+</center>
+</body>
+</html>
+{% endblock %}

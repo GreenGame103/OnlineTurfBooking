@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="484c8ca2-c797-48e5-81d7-7cbdeacedc69" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/onlineTurfBooking$online_turf_booking.coverage" NAME="online turf booking Coverage Results" MODIFIED="1655223323339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="onlineTurfBooking" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineTurfBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineTurfBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineTurfBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineTurfBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineTurfBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineTurfBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineTurfBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineTurfBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.online turf booking">
+    <configuration default="false" name="online turf booking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineTurfBooking" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/online turf booking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineTurfBooking" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineTurfBooking" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineTurfBooking" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineTurfBooking" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="onlineTurfBooking" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineTurfBooking" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineTurfBooking" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.online turf booking" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.online turf booking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="484c8ca2-c797-48e5-81d7-7cbdeacedc69" name="Default" comment="" />
+      <created>1653112571123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653112571123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26852846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32830626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online turf booking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+            <marker date="1653080357000" expanded="true" signature="686:737" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="1981:2058" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="2404:2462" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="2776:2838" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="3462:3525" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="3973:3991" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="4225:4313" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="4541:4559" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="4786:4841" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="5861:5907" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="6055:6119" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="6145:6272" ph="insert into prop... " />
+            <marker date="1653080357000" expanded="true" signature="6685:6743" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="7781:7967" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8148:8346" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8516:8714" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8893:8955" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="9204:9383" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="9755:9813" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10064:10308" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10754:10919" ph="select turf.... tournament" />
+            <marker date="1653080357000" expanded="true" signature="11507:11653" ph="insert into tournament_shedule... " />
+            <marker date="1653080357000" expanded="true" signature="11831:11849" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="12112:12175" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12534:12594" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12751:12849" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="12985:13045" ph="insert into winner_list... " />
+            <marker date="1653080357000" expanded="true" signature="13210:13316" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14007:14182" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14360:14419" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="14554:14964" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15021:15330" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15367:15676" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15947:16005" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="16965:17125" ph="insert into turf... " />
+            <marker date="1653080357000" expanded="true" signature="17491:17550" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="17804:17892" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="18176:18216" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18246:18288" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18630:18775" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="19020:19042" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="19281:19423" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="19844:19907" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="20142:20238" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="20478:20541" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="20807:20859" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="20968:21003" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21112:21147" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21250:21306" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21328:21385" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21415:21502" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="21553:21608" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="21630:21697" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="21983:22128" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="22234:22269" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22374:22409" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22512:22568" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22590:22646" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22674:22747" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="22793:22838" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="22860:22944" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="23232:23318" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="24243:24289" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="24437:24498" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="24524:24651" ph="insert into user... " />
+            <marker date="1653080357000" expanded="true" signature="25214:25272" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="26289:26475" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="26648:26846" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27008:27206" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27380:27442" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="27778:27827" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="27944:27962" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="28646:28780" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="29517:29630" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="29737:29847" ph="insert into booking... " />
+            <marker date="1653080357000" expanded="true" signature="29877:29933" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="29963:30019" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="30049:30139" ph="insert into turfpayment... " />
+            <marker date="1653080357000" expanded="true" signature="30677:30784" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="31041:31065" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="31476:31562" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="32769:32882" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="32996:33105" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="33274:33394" ph="insert into tournament_request1... " />
+            <marker date="1653080357000" expanded="true" signature="33424:33480" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33510:33566" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33596:33683" ph="insert into tpayment... " />
+            <marker date="1653080357000" expanded="true" signature="34364:34436" ph="insert into partner_request... " />
+            <marker date="1653080357000" expanded="true" signature="34841:35009" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35283:35369" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35528:35601" ph="update partn... " />
+            <marker date="1653080357000" expanded="true" signature="35629:35696" ph="insert into pr_user... " />
+            <marker date="1653080357000" expanded="true" signature="36006:36367" ph="select partn... partner_request" />
+            <marker date="1653080357000" expanded="true" signature="36595:36688" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="37053:37137" ph="insert into rating... " />
+            <marker date="1653080357000" expanded="true" signature="37610:37686" ph="insert into feedback... " />
+            <marker date="1653080357000" expanded="true" signature="38036:38072" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="38317:38484" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="38776:38838" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="39066:39162" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39191:39254" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39574:39670" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39699:39762" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39960:39978" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="40364:40450" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="40498:40574" ph="update login... " />
+            <marker date="1653080357000" expanded="true" signature="41298:41384" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="41432:41508" ph="update login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online turf booking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+            <marker date="1653080357000" expanded="true" signature="686:737" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="1981:2058" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="2404:2462" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="2776:2838" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="3462:3525" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="3973:3991" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="4225:4313" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="4541:4559" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="4786:4841" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="5861:5907" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="6055:6119" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="6145:6272" ph="insert into prop... " />
+            <marker date="1653080357000" expanded="true" signature="6685:6743" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="7781:7967" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8148:8346" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8516:8714" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8893:8955" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="9204:9383" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="9755:9813" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10064:10308" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10754:10919" ph="select turf.... tournament" />
+            <marker date="1653080357000" expanded="true" signature="11507:11653" ph="insert into tournament_shedule... " />
+            <marker date="1653080357000" expanded="true" signature="11831:11849" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="12112:12175" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12534:12594" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12751:12849" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="12985:13045" ph="insert into winner_list... " />
+            <marker date="1653080357000" expanded="true" signature="13210:13316" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14007:14182" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14360:14419" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="14554:14964" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15021:15330" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15367:15676" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15947:16005" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="16965:17125" ph="insert into turf... " />
+            <marker date="1653080357000" expanded="true" signature="17491:17550" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="17804:17892" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="18176:18216" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18246:18288" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18630:18775" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="19020:19042" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="19281:19423" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="19844:19907" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="20142:20238" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="20478:20541" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="20807:20859" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="20968:21003" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21112:21147" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21250:21306" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21328:21385" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21415:21502" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="21553:21608" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="21630:21697" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="21983:22128" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="22234:22269" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22374:22409" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22512:22568" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22590:22646" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22674:22747" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="22793:22838" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="22860:22944" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="23232:23318" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="24243:24289" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="24437:24498" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="24524:24651" ph="insert into user... " />
+            <marker date="1653080357000" expanded="true" signature="25214:25272" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="26289:26475" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="26648:26846" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27008:27206" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27380:27442" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="27778:27827" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="27944:27962" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="28646:28780" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="29517:29630" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="29737:29847" ph="insert into booking... " />
+            <marker date="1653080357000" expanded="true" signature="29877:29933" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="29963:30019" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="30049:30139" ph="insert into turfpayment... " />
+            <marker date="1653080357000" expanded="true" signature="30677:30784" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="31041:31065" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="31476:31562" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="32769:32882" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="32996:33105" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="33274:33394" ph="insert into tournament_request1... " />
+            <marker date="1653080357000" expanded="true" signature="33424:33480" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33510:33566" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33596:33683" ph="insert into tpayment... " />
+            <marker date="1653080357000" expanded="true" signature="34364:34436" ph="insert into partner_request... " />
+            <marker date="1653080357000" expanded="true" signature="34841:35009" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35283:35369" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35528:35601" ph="update partn... " />
+            <marker date="1653080357000" expanded="true" signature="35629:35696" ph="insert into pr_user... " />
+            <marker date="1653080357000" expanded="true" signature="36006:36367" ph="select partn... partner_request" />
+            <marker date="1653080357000" expanded="true" signature="36595:36688" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="37053:37137" ph="insert into rating... " />
+            <marker date="1653080357000" expanded="true" signature="37610:37686" ph="insert into feedback... " />
+            <marker date="1653080357000" expanded="true" signature="38036:38072" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="38317:38484" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="38776:38838" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="39066:39162" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39191:39254" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39574:39670" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39699:39762" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39960:39978" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="40364:40450" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="40498:40574" ph="update login... " />
+            <marker date="1653080357000" expanded="true" signature="41298:41384" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="41432:41508" ph="update login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online turf booking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+            <marker date="1653080357000" expanded="true" signature="686:737" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="1981:2058" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="2404:2462" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="2776:2838" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="3462:3525" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="3973:3991" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="4225:4313" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="4541:4559" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="4786:4841" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="5861:5907" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="6055:6119" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="6145:6272" ph="insert into prop... " />
+            <marker date="1653080357000" expanded="true" signature="6685:6743" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="7781:7967" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8148:8346" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8516:8714" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8893:8955" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="9204:9383" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="9755:9813" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10064:10308" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10754:10919" ph="select turf.... tournament" />
+            <marker date="1653080357000" expanded="true" signature="11507:11653" ph="insert into tournament_shedule... " />
+            <marker date="1653080357000" expanded="true" signature="11831:11849" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="12112:12175" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12534:12594" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12751:12849" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="12985:13045" ph="insert into winner_list... " />
+            <marker date="1653080357000" expanded="true" signature="13210:13316" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14007:14182" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14360:14419" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="14554:14964" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15021:15330" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15367:15676" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15947:16005" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="16965:17125" ph="insert into turf... " />
+            <marker date="1653080357000" expanded="true" signature="17491:17550" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="17804:17892" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="18176:18216" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18246:18288" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18630:18775" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="19020:19042" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="19281:19423" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="19844:19907" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="20142:20238" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="20478:20541" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="20807:20859" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="20968:21003" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21112:21147" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21250:21306" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21328:21385" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21415:21502" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="21553:21608" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="21630:21697" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="21983:22128" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="22234:22269" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22374:22409" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22512:22568" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22590:22646" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22674:22747" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="22793:22838" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="22860:22944" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="23232:23318" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="24243:24289" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="24437:24498" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="24524:24651" ph="insert into user... " />
+            <marker date="1653080357000" expanded="true" signature="25214:25272" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="26289:26475" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="26648:26846" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27008:27206" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27380:27442" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="27778:27827" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="27944:27962" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="28646:28780" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="29517:29630" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="29737:29847" ph="insert into booking... " />
+            <marker date="1653080357000" expanded="true" signature="29877:29933" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="29963:30019" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="30049:30139" ph="insert into turfpayment... " />
+            <marker date="1653080357000" expanded="true" signature="30677:30784" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="31041:31065" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="31476:31562" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="32769:32882" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="32996:33105" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="33274:33394" ph="insert into tournament_request1... " />
+            <marker date="1653080357000" expanded="true" signature="33424:33480" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33510:33566" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33596:33683" ph="insert into tpayment... " />
+            <marker date="1653080357000" expanded="true" signature="34364:34436" ph="insert into partner_request... " />
+            <marker date="1653080357000" expanded="true" signature="34841:35009" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35283:35369" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35528:35601" ph="update partn... " />
+            <marker date="1653080357000" expanded="true" signature="35629:35696" ph="insert into pr_user... " />
+            <marker date="1653080357000" expanded="true" signature="36006:36367" ph="select partn... partner_request" />
+            <marker date="1653080357000" expanded="true" signature="36595:36688" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="37053:37137" ph="insert into rating... " />
+            <marker date="1653080357000" expanded="true" signature="37610:37686" ph="insert into feedback... " />
+            <marker date="1653080357000" expanded="true" signature="38036:38072" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="38317:38484" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="38776:38838" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="39066:39162" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39191:39254" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39574:39670" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39699:39762" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39960:39978" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="40364:40450" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="40498:40574" ph="update login... " />
+            <marker date="1653080357000" expanded="true" signature="41298:41384" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="41432:41508" ph="update login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online turf booking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+            <marker date="1653080357000" expanded="true" signature="686:737" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="1981:2058" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="2404:2462" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="2776:2838" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="3462:3525" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="3973:3991" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="4225:4313" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="4541:4559" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="4786:4841" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="5861:5907" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="6055:6119" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="6145:6272" ph="insert into prop... " />
+            <marker date="1653080357000" expanded="true" signature="6685:6743" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="7781:7967" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8148:8346" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8516:8714" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8893:8955" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="9204:9383" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="9755:9813" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10064:10308" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10754:10919" ph="select turf.... tournament" />
+            <marker date="1653080357000" expanded="true" signature="11507:11653" ph="insert into tournament_shedule... " />
+            <marker date="1653080357000" expanded="true" signature="11831:11849" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="12112:12175" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12534:12594" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12751:12849" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="12985:13045" ph="insert into winner_list... " />
+            <marker date="1653080357000" expanded="true" signature="13210:13316" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14007:14182" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14360:14419" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="14554:14964" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15021:15330" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15367:15676" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15947:16005" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="16965:17125" ph="insert into turf... " />
+            <marker date="1653080357000" expanded="true" signature="17491:17550" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="17804:17892" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="18176:18216" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18246:18288" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18630:18775" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="19020:19042" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="19281:19423" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="19844:19907" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="20142:20238" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="20478:20541" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="20807:20859" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="20968:21003" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21112:21147" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21250:21306" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21328:21385" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21415:21502" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="21553:21608" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="21630:21697" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="21983:22128" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="22234:22269" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22374:22409" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22512:22568" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22590:22646" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22674:22747" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="22793:22838" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="22860:22944" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="23232:23318" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="24243:24289" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="24437:24498" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="24524:24651" ph="insert into user... " />
+            <marker date="1653080357000" expanded="true" signature="25214:25272" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="26289:26475" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="26648:26846" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27008:27206" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27380:27442" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="27778:27827" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="27944:27962" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="28646:28780" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="29517:29630" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="29737:29847" ph="insert into booking... " />
+            <marker date="1653080357000" expanded="true" signature="29877:29933" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="29963:30019" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="30049:30139" ph="insert into turfpayment... " />
+            <marker date="1653080357000" expanded="true" signature="30677:30784" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="31041:31065" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="31476:31562" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="32769:32882" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="32996:33105" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="33274:33394" ph="insert into tournament_request1... " />
+            <marker date="1653080357000" expanded="true" signature="33424:33480" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33510:33566" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33596:33683" ph="insert into tpayment... " />
+            <marker date="1653080357000" expanded="true" signature="34364:34436" ph="insert into partner_request... " />
+            <marker date="1653080357000" expanded="true" signature="34841:35009" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35283:35369" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35528:35601" ph="update partn... " />
+            <marker date="1653080357000" expanded="true" signature="35629:35696" ph="insert into pr_user... " />
+            <marker date="1653080357000" expanded="true" signature="36006:36367" ph="select partn... partner_request" />
+            <marker date="1653080357000" expanded="true" signature="36595:36688" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="37053:37137" ph="insert into rating... " />
+            <marker date="1653080357000" expanded="true" signature="37610:37686" ph="insert into feedback... " />
+            <marker date="1653080357000" expanded="true" signature="38036:38072" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="38317:38484" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="38776:38838" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="39066:39162" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39191:39254" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39574:39670" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39699:39762" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39960:39978" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="40364:40450" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="40498:40574" ph="update login... " />
+            <marker date="1653080357000" expanded="true" signature="41298:41384" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="41432:41508" ph="update login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online turf booking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+            <marker date="1653080357000" expanded="true" signature="686:737" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="1981:2058" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="2404:2462" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="2776:2838" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="3462:3525" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="3973:3991" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="4225:4313" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="4541:4559" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="4786:4841" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="5861:5907" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="6055:6119" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="6145:6272" ph="insert into prop... " />
+            <marker date="1653080357000" expanded="true" signature="6685:6743" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="7781:7967" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8148:8346" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8516:8714" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8893:8955" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="9204:9383" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="9755:9813" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10064:10308" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10754:10919" ph="select turf.... tournament" />
+            <marker date="1653080357000" expanded="true" signature="11507:11653" ph="insert into tournament_shedule... " />
+            <marker date="1653080357000" expanded="true" signature="11831:11849" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="12112:12175" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12534:12594" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12751:12849" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="12985:13045" ph="insert into winner_list... " />
+            <marker date="1653080357000" expanded="true" signature="13210:13316" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14007:14182" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14360:14419" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="14554:14964" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15021:15330" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15367:15676" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15947:16005" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="16965:17125" ph="insert into turf... " />
+            <marker date="1653080357000" expanded="true" signature="17491:17550" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="17804:17892" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="18176:18216" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18246:18288" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18630:18775" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="19020:19042" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="19281:19423" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="19844:19907" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="20142:20238" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="20478:20541" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="20807:20859" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="20968:21003" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21112:21147" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21250:21306" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21328:21385" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21415:21502" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="21553:21608" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="21630:21697" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="21983:22128" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="22234:22269" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22374:22409" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22512:22568" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22590:22646" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22674:22747" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="22793:22838" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="22860:22944" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="23232:23318" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="24243:24289" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="24437:24498" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="24524:24651" ph="insert into user... " />
+            <marker date="1653080357000" expanded="true" signature="25214:25272" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="26289:26475" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="26648:26846" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27008:27206" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27380:27442" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="27778:27827" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="27944:27962" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="28646:28780" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="29517:29630" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="29737:29847" ph="insert into booking... " />
+            <marker date="1653080357000" expanded="true" signature="29877:29933" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="29963:30019" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="30049:30139" ph="insert into turfpayment... " />
+            <marker date="1653080357000" expanded="true" signature="30677:30784" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="31041:31065" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="31476:31562" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="32769:32882" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="32996:33105" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="33274:33394" ph="insert into tournament_request1... " />
+            <marker date="1653080357000" expanded="true" signature="33424:33480" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33510:33566" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33596:33683" ph="insert into tpayment... " />
+            <marker date="1653080357000" expanded="true" signature="34364:34436" ph="insert into partner_request... " />
+            <marker date="1653080357000" expanded="true" signature="34841:35009" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35283:35369" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35528:35601" ph="update partn... " />
+            <marker date="1653080357000" expanded="true" signature="35629:35696" ph="insert into pr_user... " />
+            <marker date="1653080357000" expanded="true" signature="36006:36367" ph="select partn... partner_request" />
+            <marker date="1653080357000" expanded="true" signature="36595:36688" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="37053:37137" ph="insert into rating... " />
+            <marker date="1653080357000" expanded="true" signature="37610:37686" ph="insert into feedback... " />
+            <marker date="1653080357000" expanded="true" signature="38036:38072" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="38317:38484" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="38776:38838" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="39066:39162" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39191:39254" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39574:39670" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39699:39762" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39960:39978" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="40364:40450" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="40498:40574" ph="update login... " />
+            <marker date="1653080357000" expanded="true" signature="41298:41384" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="41432:41508" ph="update login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="82" lean-forward="false" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/211231-222424.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/220107-091722.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online turf booking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12677">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+            <marker date="1653080357000" expanded="true" signature="686:737" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="1981:2058" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="2404:2462" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="2776:2838" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="3462:3525" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="3973:3991" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="4225:4313" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="4541:4559" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="4786:4841" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="5861:5907" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="6055:6119" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="6145:6272" ph="insert into prop... " />
+            <marker date="1653080357000" expanded="true" signature="6685:6743" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="7781:7967" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8148:8346" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8516:8714" ph="update prop " />
+            <marker date="1653080357000" expanded="true" signature="8893:8955" ph="select * fro... prop" />
+            <marker date="1653080357000" expanded="true" signature="9204:9383" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="9755:9813" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10064:10308" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="10754:10919" ph="select turf.... tournament" />
+            <marker date="1653080357000" expanded="true" signature="11507:11653" ph="insert into tournament_shedule... " />
+            <marker date="1653080357000" expanded="true" signature="11831:11849" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="12112:12175" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12534:12594" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="12751:12849" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="12985:13045" ph="insert into winner_list... " />
+            <marker date="1653080357000" expanded="true" signature="13210:13316" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14007:14182" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="14360:14419" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="14554:14964" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15021:15330" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15367:15676" ph="select tourn... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="15947:16005" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="16965:17125" ph="insert into turf... " />
+            <marker date="1653080357000" expanded="true" signature="17491:17550" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="17804:17892" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="18176:18216" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18246:18288" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="18630:18775" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="19020:19042" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="19281:19423" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="19844:19907" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="20142:20238" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="20478:20541" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="20807:20859" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="20968:21003" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21112:21147" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="21250:21306" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21328:21385" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="21415:21502" ph="select * fro... turfpayment" />
+            <marker date="1653080357000" expanded="true" signature="21553:21608" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="21630:21697" ph="update booki... " />
+            <marker date="1653080357000" expanded="true" signature="21983:22128" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="22234:22269" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22374:22409" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="22512:22568" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22590:22646" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="22674:22747" ph="select * fro... tpayment" />
+            <marker date="1653080357000" expanded="true" signature="22793:22838" ph="delete from " />
+            <marker date="1653080357000" expanded="true" signature="22860:22944" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="23232:23318" ph="update tourn... " />
+            <marker date="1653080357000" expanded="true" signature="24243:24289" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="24437:24498" ph="insert into login... " />
+            <marker date="1653080357000" expanded="true" signature="24524:24651" ph="insert into user... " />
+            <marker date="1653080357000" expanded="true" signature="25214:25272" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="26289:26475" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="26648:26846" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27008:27206" ph="update user " />
+            <marker date="1653080357000" expanded="true" signature="27380:27442" ph="select * fro... user" />
+            <marker date="1653080357000" expanded="true" signature="27778:27827" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="27944:27962" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="28646:28780" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="29517:29630" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="29737:29847" ph="insert into booking... " />
+            <marker date="1653080357000" expanded="true" signature="29877:29933" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="29963:30019" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="30049:30139" ph="insert into turfpayment... " />
+            <marker date="1653080357000" expanded="true" signature="30677:30784" ph="select * fro... booking" />
+            <marker date="1653080357000" expanded="true" signature="31041:31065" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="31476:31562" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="32769:32882" ph="select * fro... card" />
+            <marker date="1653080357000" expanded="true" signature="32996:33105" ph="select * fro... tournament_request1" />
+            <marker date="1653080357000" expanded="true" signature="33274:33394" ph="insert into tournament_request1... " />
+            <marker date="1653080357000" expanded="true" signature="33424:33480" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33510:33566" ph="update card " />
+            <marker date="1653080357000" expanded="true" signature="33596:33683" ph="insert into tpayment... " />
+            <marker date="1653080357000" expanded="true" signature="34364:34436" ph="insert into partner_request... " />
+            <marker date="1653080357000" expanded="true" signature="34841:35009" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35283:35369" ph="select * fro... pr_user" />
+            <marker date="1653080357000" expanded="true" signature="35528:35601" ph="update partn... " />
+            <marker date="1653080357000" expanded="true" signature="35629:35696" ph="insert into pr_user... " />
+            <marker date="1653080357000" expanded="true" signature="36006:36367" ph="select partn... partner_request" />
+            <marker date="1653080357000" expanded="true" signature="36595:36688" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="37053:37137" ph="insert into rating... " />
+            <marker date="1653080357000" expanded="true" signature="37610:37686" ph="insert into feedback... " />
+            <marker date="1653080357000" expanded="true" signature="38036:38072" ph="select * fro... winner_list" />
+            <marker date="1653080357000" expanded="true" signature="38317:38484" ph="select * fro... tournament" />
+            <marker date="1653080357000" expanded="true" signature="38776:38838" ph="select * fro... tournament_shedule" />
+            <marker date="1653080357000" expanded="true" signature="39066:39162" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39191:39254" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39574:39670" ph="select * fro... rating" />
+            <marker date="1653080357000" expanded="true" signature="39699:39762" ph="select * fro... feedback" />
+            <marker date="1653080357000" expanded="true" signature="39960:39978" ph="select * fro... turf" />
+            <marker date="1653080357000" expanded="true" signature="40364:40450" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="40498:40574" ph="update login... " />
+            <marker date="1653080357000" expanded="true" signature="41298:41384" ph="select * fro... login" />
+            <marker date="1653080357000" expanded="true" signature="41432:41508" ph="update login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

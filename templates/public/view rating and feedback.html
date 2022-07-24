@@ -1,0 +1,51 @@
+{% extends "public/public home.html" %}
+{% block body %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body><form action="" method="get">
+    <H2>RATING</H2>
+  <table width="463" border="1"class="table table-hover">
+    <tr>
+      <th width="13" scope="col">#</th>
+      <th width="74" scope="col">TURF NAME</th>
+      <th width="115" scope="col">USER NAME</th>
+      <th width="90" scope="col">RATING</th>
+      <th width="137" scope="col">DATE</th>
+    </tr>
+      {% for i in r %}
+    <tr>
+      <td>&nbsp;{{ loop.index }}</td>
+      <td>&nbsp;{{ i['turf_name'] }}</td>
+      <td>&nbsp;{{ i['name'] }}</td>
+      <td>&nbsp;{{ i['rating'] }}</td>
+      <td>&nbsp;{{ i['date'] }}</td>
+    </tr>
+      {% endfor %}
+  </table>
+    <BR>
+    <H2>FEEDBACK</H2>
+
+    <table width="463" border="1"class="table table-hover">
+    <tr>
+      <th width="13" scope="col">#</th>
+      <th width="115" scope="col">USER NAME</th>
+      <th width="90" scope="col">FEEDBACK</th>
+      <th width="137" scope="col">DATE</th>
+    </tr>
+        {% for i in f %}
+    <tr>
+       <td>&nbsp;{{ loop.index }}</td>
+      <td>&nbsp;{{ i['name'] }}</td>
+      <td>&nbsp;{{ i['feedback'] }}</td>
+      <td>&nbsp;{{ i['date'] }}</td>
+    </tr>
+        {% endfor %}
+  </table>
+</form>
+</body>
+</html>
+{% endblock %}

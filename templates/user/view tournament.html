@@ -1,0 +1,32 @@
+{% extends "user/user home.html" %}
+{% block body %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body><form action="" method="get"><table width="498" border="1"class="table table-hover">
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">TOURNAMENT NAME</th>
+    <th scope="col">DATE</th>
+    <th scope="col">DETAILS</th>
+    <th scope="col">PRICE</th>
+    <th scope="col">&nbsp;</th>
+  </tr>
+    {% for i in data %}
+  <tr>
+    <td>{{ loop.index }}</td>
+    <td>&nbsp;{{ i['tournament_name']  }}</td>
+    <td>{{ i['date'] }}</td>
+    <td>{{ i['details'] }}&nbsp;</td>
+    <td>&nbsp;{{ i['price'] }}</td>
+    <td><a href="/tournament_request_user/{{ i['tournament_id'] }}/{{ i['price'] }}">request to play tournament</a></td>
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+</html>
+{% endblock %}

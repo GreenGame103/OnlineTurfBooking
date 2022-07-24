@@ -1,0 +1,79 @@
+{% extends "manager/manager_home.html" %}
+{% block body %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <table width="200" border="1"class="table table-hover">
+    <tr>
+      <th scope="row">GAME TYPE</th>
+      <td><label for="select"></label>
+        <select name="select" id="select">
+          <option>--select--</option>
+          <option {% if data['gametype']=='Semi Finals' %} selected {% endif %}>Semi Finals</option>
+          <option {% if data['gametype']=='Finals' %} selected {% endif %}>Finals</option>
+      </select></td>
+    </tr>
+    <tr>
+      <th scope="row">DATE</th>
+      <td><label for="textfield"></label>
+      <input type="text" name="textfield" id="textfield" value="{{ data['starting_date'] }}" /></td>
+    </tr>
+    <tr>
+      <th scope="row">TIME</th>
+      <td><label for="textfield2"></label>
+      <input type="text" name="textfield2" id="textfield2" value="{{ data['time'] }}" /></td>
+    </tr>
+    <tr>
+      <th scope="row">TEAM 1</th>
+      <td><label for="select2">
+
+      <select name="select2" id="select2">
+    <option>--select--</option>
+       {% if data1 %}
+          {% for i in data1 %}
+          <option value="{{ i['team_name'] }}">{{ i['team_name'] }}</option>
+          {% endfor %}
+      {% else %}
+
+    <option{% if data['team_1']=='Team 1' %} selected {% endif %}>Team 1</option>
+    <option{% if data['team_1']=='Team 2' %} selected {% endif %}>Team 2</option>
+    <option{% if data['team_1']=='Team 3' %} selected {% endif %}>Team 3</option>
+    <option{% if data['team_1']=='Team 4' %} selected {% endif %}>Team 4</option>
+      {% endif %}
+  </select></label></td>
+    </tr>
+    <tr>
+      <th scope="row">TEAM 2</th>
+      <td>
+      <select name="select3" id="select2">
+    <option>--select--</option>
+        {% if data1 %}
+          {% for i in data1 %}
+          <option value="{{ i['team_name'] }}">{{ i['team_name'] }}</option>
+          {% endfor %}
+      {% else %}
+    <option{% if data['team_2']=='Team 1' %} selected {% endif %}>Team 1</option>
+    <option{% if data['team_2']=='Team 2' %} selected {% endif %}>Team 2</option>
+    <option{% if data['team_2']=='Team 3' %} selected {% endif %}>Team 3</option>
+    <option{% if data['team_2']=='Team 4' %} selected {% endif %}>Team 4</option>
+      {% endif %}
+  </select></td>
+    </tr>
+    <tr>
+      <th scope="row">BREAK</th>
+      <td><label for="textfield3"></label>
+      <input type="text" name="textfield3" id="textfield3" value="{{ data['break'] }}" /></td>
+    </tr>
+    <tr>
+      <th colspan="2" scope="row"><input type="submit" name="button" id="button" value="Submit" /></th>
+    </tr>
+  </table>
+</form>
+</body>
+</html>
+{% endblock %}
