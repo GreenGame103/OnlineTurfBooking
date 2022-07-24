@@ -1,0 +1,31 @@
+{% extends "manager/manager_home.html" %}
+{% block body %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body><form action="" method="get"><table width="551" border="1"class="table table-hover">
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">USER NAME</th>
+    <th scope="col">DATE</th>
+    <th scope="col">TIME</th>
+    <th scope="col">PRICE</th>
+    <th scope="col">TURF NAME</th>
+  </tr>
+    {% for i in data %}
+  <tr>
+    <td>{{ loop.index }}&nbsp;</td>
+    <td>&nbsp;{{ i['name'] }}</td>
+    <td>{{ i['date'] }}&nbsp;</td>
+    <td>&nbsp;{{ i['time'] }}</td>
+    <td>{{ i['price'] }}&nbsp;</td>
+    <td>{{ i['turf_name'] }}&nbsp;</td>
+  </tr>{% endfor %}
+</table>
+</form>
+</body>
+</html>
+{% endblock %}

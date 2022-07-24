@@ -1,0 +1,52 @@
+{% extends "manager/manager_home.html" %}
+{% block body %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body><center><form action="" method="get"><table width="469" border="1" class="table table-hover">
+  <tr>
+    <th width="8" scope="col">#</th>
+    <th width="105" scope="col">GAME TYPE</th>
+    <th width="105" scope="col">DATE</th>
+    <th width="144" scope="col">TIME</th>
+    <th width="184" scope="col">TEAM 1</th>
+      <th width="112" scope="col">TEAM 2</th>
+      <th width="112" scope="col">BREAK TIME</th>
+      <th width="112" scope="col">STATUS</th>
+
+      <th>WINNER</th>
+  </tr>
+    {% for i in data %}
+  <tr>
+    <td>{{ loop.index }}</td>
+    <td>&nbsp;{{ i['gametype'] }}</td>
+    <td>&nbsp;{{ i['starting_date'] }}</td>
+    <td>{{ i['time'] }}</td>
+    <td>{{ i['team_1'] }}</td>
+    <td>{{ i['team_2'] }}</td>
+    <td>{{ i['break'] }}</td>
+
+  <td>{% if i['status']=='pending' %}
+      <a href="/update_schedule/{{ i['schedule_id'] }}">Update</a><br>
+  <a href="/delete_schedule/{{ i['schedule_id'] }}" onclick="return confirm('Are you sure...?')">Delete</a>
+  {% else %}
+      Finished
+      {% endif %}
+  </td>
+  <td>
+        {% if i['winner']=='pending' %}
+      <a href="/winner/{{ i['team_1'] }}/{{ i['team_2'] }}/{{ i['schedule_id'] }}">Set as Winner</a>
+  {% else %}
+      {{ i['winner'] }}
+      {% endif %}
+  </td>
+  </tr>
+    {% endfor %}
+</table>
+</form></center>
+</body>
+</html>
+{% endblock %}

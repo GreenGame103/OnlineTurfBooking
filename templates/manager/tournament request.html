@@ -1,0 +1,53 @@
+{% extends "manager/manager_home.html" %}
+{% block body %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body><center><form action="" method="get"><table width="503" height="76" border="1" align="center"class="table table-hover">
+  <tr>
+    <th width="14" scope="col">#</th>
+    <th width="64" scope="col">DATE</th>
+    <th width="180" scope="col">TOURNAMENT NAME</th>
+    <th width="180" scope="col">TEAM NAME</th>
+    <th width="53" scope="col">PRICE</th>
+    <th width="58" scope="col">USER NAME</th>
+{#    <th width="54" scope="col">TIME</th>#}
+    <th width="54" scope="col">&nbsp;</th>
+  </tr>
+    {% for i in data %}
+  <tr>
+    <td>&nbsp;{{ loop.index }}</td>
+    <td>{{ i['date'] }}&nbsp;</td>
+    <td>&nbsp;{{ i['tournament_name'] }}</td>
+    <td>&nbsp;{{ i['team_name'] }}</td>
+    <td>&nbsp;{{ i['price'] }}</td>
+    <td>&nbsp;{{ i['name'] }}</td>
+{#    <td>&nbsp;{{ i['time'] }}</td>#}
+
+       <td><p>
+        {% if i['status']=='pending' %}
+        <a href="/accept_tournament_request/{{ i['tournament_request_id'] }}">ACCEPT</a></p>
+      <p><a href="/reject_tournament_request/{{ i['tournament_request_id'] }}">REJECT</a>
+
+    {% else %}
+    {{ i['status'] }}
+        {% endif %}
+    </t
+
+
+
+{#    <td><p><a href="/accept_tournament_request/{{ i['tournament_request_id'] }}">ACCEPT</a></p>#}
+{#      <p><a href="/reject_tournament_request/{{ i['tournament_request_id'] }}">REJECT</a></p></td>#}
+  </tr>
+    {% endfor %}
+
+
+<a href="#"></a>&nbsp;&nbsp;	&nbsp;
+<a href="#"></a>
+</table></form></center>
+</body>
+</html>
+{% endblock %}
